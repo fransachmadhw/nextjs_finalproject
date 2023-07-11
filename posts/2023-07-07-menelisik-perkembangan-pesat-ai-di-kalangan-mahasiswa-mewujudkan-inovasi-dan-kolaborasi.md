@@ -3,7 +3,7 @@ title: "Menelisik perkembangan pesat AI di kalangan mahasiswa: Mewujudkan Inovas
 date: "2023-07-07"
 excerpt: "Teknologi Artificial Intelligence (AI) telah mengalami perkembangan pesat dalam beberapa tahun terakhir, dan dampaknya terasa di berbagai sektor kehidupan."
 tags: ["kabar teknologi"]
-thumbnail: "https://drive.google.com/uc?id=10eaAzCnE6tQY3cC_4zuWslHuVoZCtoXs"
+thumbnail: "https://drive.google.com/uc?id=1dacmn0OIV0ShtvtCHabVBwhMOEYLkWIx"
 ---
 
 ![Cover Gambar](https://drive.google.com/uc?id=1dacmn0OIV0ShtvtCHabVBwhMOEYLkWIx)
