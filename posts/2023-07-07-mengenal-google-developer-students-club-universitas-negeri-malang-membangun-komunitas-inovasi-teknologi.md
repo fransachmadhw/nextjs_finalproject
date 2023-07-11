@@ -3,7 +3,7 @@ title: "Mengenal Google Developer Students Club Universitas Negeri Malang: Memba
 date: "2023-07-07"
 excerpt: "Mari kita jelajahi penjelasan lengkap tentang Google Developer Students Club (GDSC) di Universitas Negeri Malang!"
 tags: ["gdsc um"]
-thumbnail: "https://drive.google.com/uc?id=1pj8Fidn-RDbj7ESl4xdoykB4NgTSkfZR"
+thumbnail: "https://drive.google.com/uc?id=1Z8hgnmZ9EHq8avECzuse4FD8GoxhWovI"
 ---
 
 ![Cover Gambar](https://drive.google.com/uc?id=1pj8Fidn-RDbj7ESl4xdoykB4NgTSkfZR)
